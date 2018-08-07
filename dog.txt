@@ -1,0 +1,103 @@
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+This article is about the domestic dog. For related species known as "dogs", see Canidae. For other uses, see Dog (disambiguation).
+"Doggie" redirects here. For the Danish artist, see Doggie (artist).
+Domestic dog
+Temporal range: Late Pleistocene – Present (14,700–0 years BP)
+Collage of Nine Dogs.jpg
+Selection of the different breeds of dog
+Conservation status
+Domesticated
+Scientific classification e
+Kingdom:	Animalia
+Phylum:	Chordata
+Class:	Mammalia
+Order:	Carnivora
+Family:	Canidae
+Genus:	Canis
+Species:	C. lupus
+Subspecies:	C. l. familiaris[1]
+Trinomial name
+Canis lupus familiaris[1]
+Linnaeus, 1758
+Synonyms
+Canis familiaris Linnaeus, 1758[2][3]
+
+ 
+Montage showing the morphological variation of the dog.
+The domestic dog (Canis lupus familiaris when considered a subspecies of the gray wolf or Canis familiaris when considered a distinct species)[4] is a member of the genus Canis (canines), which forms part of the wolf-like canids,[5] and is the most widely abundant terrestrial carnivore.[6][7][8][9][10] The dog and the extant gray wolf are sister taxa[11][12][13] as modern wolves are not closely related to the wolves that were first domesticated,[12][13] which implies that the direct ancestor of the dog is extinct.[14] The dog was the first species to be domesticated[13][15] and has been selectively bred over millennia for various behaviors, sensory capabilities, and physical attributes.[16]
+
+Their long association with humans has led dogs to be uniquely attuned to human behavior[17] and they are able to thrive on a starch-rich diet that would be inadequate for other canid species.[18] New research seems to show that dogs have mutations to equivalent genetic regions in humans where changes are known to trigger high sociability and somewhat reduced intelligence.[19][20] Dogs vary widely in shape, size and colors.[21] Dogs perform many roles for people, such as hunting, herding, pulling loads, protection, assisting police and military, companionship and, more recently, aiding handicapped individuals and therapeutic roles. This influence on human society has given them the sobriquet "man's best friend".
+
+
+Contents
+1	Etymology
+2	Terminology
+3	Taxonomy
+4	Origin
+5	Biology
+5.1	Anatomy
+5.1.1	Size and weight
+5.1.2	Senses
+5.1.3	Coat
+5.1.4	Tail
+5.1.5	Differences from wolves
+5.2	Health
+5.2.1	Lifespan
+5.3	Reproduction
+5.3.1	Neutering
+5.4	Inbreeding depression
+6	Intelligence, behavior and communication
+6.1	Intelligence
+6.2	Behavior
+6.3	Communication
+7	Ecology
+7.1	Population and habitat
+7.2	Competitors
+7.3	Diet
+7.4	Range
+8	Breeds
+9	Roles with humans
+9.1	Early roles
+9.2	As pets
+9.3	Work
+9.4	Sports and shows
+9.5	As food
+9.6	Health risks to humans
+9.7	Health benefits for humans
+9.8	Shelters
+10	Cultural depictions
+10.1	Mythology
+10.2	Literature
+10.3	Religion
+10.4	Art
+11	See also
+12	Notes
+13	References
+14	Bibliography
+15	Further reading
+16	External links
+Etymology
+The term "domestic dog" is generally used for both domesticated and feral varieties. The English word dog comes from Middle English dogge, from Old English docga, a "powerful dog breed".[22] The term may derive from Proto-Germanic *dukkōn, represented in Old English finger-docce ("finger-muscle")[23] or (as suggested by Piotr Gąsiorowski) the Old English colour adjective dox, meaning "brown" or "tan".[24] In either case, the word seems to have been derived via the diminutive suffix -ga also seen in frogga "frog", picga "pig", stagga "stag", wicga "beetle, worm", among others.[25]
+
+In 14th-century England, hound (from Old English: hund) was the general word for all domestic canines, and dog referred to a subtype of hound, a group including the mastiff. It is believed this "dog" type was so common, it eventually became the prototype of the category "hound".[26] By the 16th century, dog had become the general word, and hound had begun to refer only to types used for hunting.[27] The word "hound" is ultimately derived from the Proto-Indo-European word *kwon-, "dog".[28] This semantic shift may be compared with in German, where the corresponding word Hund kept its original meaning. (German, like other European languages, has a word borrowed from the English dog which refers specifically to mastiffs.[29]) The term *ḱwon- may ultimately derive from the earliest layer of Proto-Indo-European vocabulary.[30]
+
+A male canine is referred to as a "dog", while a female is traditionally called a "bitch" (derived from Middle English bicche, from Old English bicce, ultimately from Old Norse bikkja). Since the word "bitch" has taken on derogatory connotations, nowadays it is less commonly used to refer to dogs.[citation needed] The father of a litter is called the sire, and the mother is called the dam. The process of birth is "whelping", from the Old English word hwelp; the modern English word "whelp" is an alternative term for puppy.[31] A litter refers to the multiple offspring at one birth which are called puppies or pups from the French poupée, "doll", which has mostly replaced the older term "whelp".[32]
+
+Terminology
+The term dog typically is applied both to the species (or subspecies) as a whole, and any adult male member of the same.
+An adult female is a bitch.
+An adult male capable of reproduction is a stud.
+An adult female capable of reproduction is a brood bitch, or brood mother.
+Immature males or females (that is, animals that are incapable of reproduction) are pups or puppies.
+A group of pups from the same gestation period is a litter.
+The father of a litter is a sire. It is possible for one litter to have multiple sires.
+The mother of a litter is a dam.
+A group of any three or more adults is a pack.
+Taxonomy
+In 1758, the taxonomist Linnaeus published in his Systema Naturae the classification of species. Canis is a Latin word meaning dog,[33] and under this genus he listed the dog-like carnivores including domestic dogs, wolves, and jackals. He classified the domestic dog as Canis familiaris and on the next page as a separate species he classified the wolf as Canis lupus.[2] In 1926, the International Commission on Zoological Nomenclature (ICZN) in Opinion 91 included Genus Canis on its Official Lists and Indexes of Names in Zoology.[3] In 1955, the ICZN's Direction 22 added Canis familiaris as the type species for genus Canis to the official list.[34] In 1957, the ICZN ruled in Opinion 451 that Canis dingo be placed on its official list.[35][36]
+
+In 1978, a review to minimize the number species listed under genus Canis proposed that "Canis dingo is now generally regarded as a distinctive feral domestic dog. Canis familiaris is used for domestic dogs, although taxonomically it should probably be synonymous with Canis lupus."[37] In 1982, the first edition of Mammal Species of the World included a note under Canis lupus with the comment: "Probably ancestor of and conspecific with the domestic dog, familiaris".[38]
+
+In 2003, the ICZN ruled in its Opinion 2027 that the "name of a wild species...is not invalid by virtue of being predated by the name based on a domestic form." Additionally, the ICZN placed the taxon Canis lupus as a conserved name on the official list under this opinion.[39] In the third edition of Mammal Species of the World published in 2005, the mammalogist W. Christopher Wozencraft listed under the wolf Canis lupus what he proposed to be two subspecies: "familiaris Linneaus, 1758 [domestic dog]" and "dingo Meyer, 1793 [domestic dog]",[a] with the comment "Includes the domestic dog as a subspecies, with the dingo provisionally separate – artificial variants created by domestication and selective breeding. Although this may stretch the subspecies concept, it retains the correct allocation of synonyms."[1]
+
