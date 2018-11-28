@@ -1,2 +1,4 @@
 # SearchEngine
-Learning how Search engines work
+
+Simple search engine in flask and html
+
