@@ -28,7 +28,7 @@ def my_form_post():
 
 	for page in pages:
 		with open(page) as f:
-			l= f.read()# Use this to read file content as a stream:
+			l= f.read()
 			words = l.split()
 		for r in words:
 		    if not r in stop_words:
@@ -60,18 +60,14 @@ def my_form_post():
 	dic={}
 	values=[]
 	for k,v in index_map.items():
-	# print(v[0])
 		dic[k]=v
-		# print(v)
 		values.append(v)
 
-# key_to_search=difflib.get_close_matches(a, values)
 
 
 	key_to_search=[]
 
 	for i in values:
-		print("iii====>",i)
 		if text in i:
 				key_to_search.append(i)
 
