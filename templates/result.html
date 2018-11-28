@@ -1,0 +1,51 @@
+<!-- <!doctype html>
+<html>
+   <body>
+           <ul>
+				{% for user in result %}
+  					<li><a href="#">{{ user }}</a></li>
+				{% endfor %}
+			</ul>
+      
+   </body>
+</html> -->
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="static/main.css">
+</head>
+<body>
+<header> 
+	<div id="topbar">
+	 	<div class="logo">
+			<img src="https://techflourish.com/images/flaming-clipart-17.jpg" width="30px" class="center"> <span style="color:orange; font-size:60px" class="t1">Fire</span> <span style="font-size:60px">Search</span>
+		</div>
+	</div>
+</header>
+<table  border="1px" cellpadding="5px" style=" border-width:2px;  text-align: center">
+
+<tr>
+	<td><h2 style="text-align: center"> You searched for  {{txt}}</h2></td>
+</tr>	
+</table>
+{% for x in range(result|length) %}
+<div class="box">
+	<div class="blog-post">
+		
+
+		<div class="blog-heading">
+			<a href={{link[x]}}>{{kts[x][:-3]}}</a>
+		</div>
+		<div class="blog-body">
+			<p>
+			 	{{ result[x][:2000] }}
+			</p>
+		</div>
+
+	</div>
+</div>
+{% endfor %}
+
+
+</body>
+

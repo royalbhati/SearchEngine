@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<style type="text/css">
+		#place{
+			width: 50%;
+			padding: 12px 20px;
+		}
+
+		#sub{
+			width: 20%;
+			height: 50%;
+			color: white;
+			background-color: #f44336;
+			font-size: 24px;
+
+			
+		}
+		.center {
+		    display: block;
+
+		    margin-left: auto;
+		    margin-right: auto;
+		    width: 50px;
+        }
+
+	</style>
+</head>
+<body>
+	<img src="https://techflourish.com/images/flaming-clipart-17.jpg" width="50px" class="center">
+	<h style="text-align: center;font-size: 50px;padding-left: 550px">Fire Search </h><hr width="20%">
+
+
+	<h1 style="text-align: center;font-size: 80px"> Enter Your Search Query </label>
+	<form action = "http://localhost:5000/result" method="POST">
+    <input id="place" name="text" placeholder="Go for it..."><br>
+    <input id="sub" type="submit">
+	</form>
+
+</body>
+</html>
