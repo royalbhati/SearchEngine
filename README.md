@@ -1,11 +1,11 @@
 # SearchEngine
 
-Simple search engine in flask and html
+Simple search engine in flask and html 
 
 
-#How to use
+# How to use
 
-1) python searchengine.py
+1) ``` python searchengine.py ```
 
 ![alt text](images/start.png)
 
