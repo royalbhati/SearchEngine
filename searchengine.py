@@ -13,7 +13,7 @@ app = Flask(__name__)
 
 @app.route('/', methods=['GET'])
 def my_form():
-	return render_template('a.html')
+	return render_template('home.html')
 
 @app.route('/result', methods=['POST'])
 def my_form_post():
